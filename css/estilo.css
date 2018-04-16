@@ -1,0 +1,15 @@
+body{
+  background-image: url(../img/fondo2.jpg);
+}
+#acuario{
+  margin-top: 20px;
+}
+#parrafo{
+  margin: 10px;
+}
+.redondo{
+  border-radius: 15px;
+}
+h5{
+  border-bottom: 1px solid black;
+}

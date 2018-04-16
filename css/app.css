@@ -1,0 +1,79 @@
+body{
+  background-image: url("https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/06/22140231/iStock-540206792.jpg");
+}
+
+header{
+  border-bottom: 1px solid white;
+
+}
+#bordado{
+  border-right: 1px solid white;
+}
+.foro{
+  border: 1px solid white;
+  margin-bottom: 15px
+}
+.row{
+  padding: 5px;
+}
+a{
+  color: #ff8080;
+}
+
+.forma1{
+  padding: 10px;
+  border-top: 1px solid black;
+}
+.list-group {
+  margin-bottom: 1rem;
+  border: 1px solid #ff8080;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+  color: #0a0a0a;
+}
+
+.list-group > :last-child {
+  margin-bottom: 0;
+}
+
+.list-group-item {
+  padding: 1rem;
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid #ff8080;
+}
+
+.list-group-item > :last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.list-group-item.active {
+  color: #fefefe;
+  background-color: #1779ba;
+  border-color: 1px solid #1779ba;
+}
+
+.list-group-item:hover, .list-group-item:focus {
+  background-color: #e6e6e6;
+}
+
+.list-group-item:hover.active, .list-group-item:focus.active {
+  background-color: #1779ba;
+}
+
+.list-group-item.disabled, .list-group-item.disabled:hover, .list-group-item.disabled:focus, .list-group-item[disabled], .list-group-item[disabled]:hover, .list-group-item[disabled]:focus {
+  color: #8a8a8a;
+  cursor: not-allowed;
+  background-color: #fefefe;
+}
+h5{
+color: #ff8080;
+}
+.historial{
+  overflow: hidden;
+}
+h6{
+  color: #ff8080;
+}
